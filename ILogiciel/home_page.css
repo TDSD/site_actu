@@ -1,0 +1,11 @@
+h2{
+    text-align: center;
+}
+
+.list-group-item{
+   border: solid 1px;
+}
+
+.list-group-item:hover{
+    color: blue;
+ }
